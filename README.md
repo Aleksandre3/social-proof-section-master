@@ -20,6 +20,8 @@
 
 Users should be able to:
 
+Frondendmentor resource: https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
+
 - View the optimal layout depending on their device's screen size
 Desktop 1440px, Mobile 375px
 
@@ -45,9 +47,9 @@ Mobile - 375px
 
 - ### What I learned
 
-- I am happy to share with you my third project with HTML/CSS 🚀 I'm a beginner in HTML/CSS, As I mentioned in the previous project, I was going to make a fully responsive small site. I made a responsive page for the first time, I think it turned out well
+- I am happy to share with you my third project with HTML/CSS 🚀 I'm a beginner in HTML/CSS, As I mentioned in the previous project, I was going to make a fully responsive small site, I chose this project from frontendmentor.io I made a responsive page for the first time and I think it turned out well
 
-  There are big challenges ahead!!! 🚀 ✊
+  i will come back to you with more and more projects, There are big challenges ahead!!! 🚀 ✊
 
 - ### Useful resources
 
