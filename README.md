@@ -21,7 +21,7 @@
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+Desktop 1440px, Mobile 375px
 
 ### Screenshot
 
@@ -45,14 +45,14 @@ Mobile - 375px
 
 - ### What I learned
 
-- I am happy to share with you my second project with HTML/CSS 🚀 I'm a beginner in HTML/CSS, I feel like I'll get better at writing styles in css with practice. I have a good understanding of how CSS Flexbox works. Also how colors, fonts, and other components are stored in variables to make our code look more organized. of course this is just the beginning. My goal is to thoroughly study responsive design to make the project more flexible and adaptable to all devices.
+- I am happy to share with you my third project with HTML/CSS 🚀 I'm a beginner in HTML/CSS, As I mentioned in the previous project, I was going to make a fully responsive small site.I made a responsive page for the first time, I think it turned out well
 
-There are big challenges ahead!!! 🚀 ✊
+  There are big challenges ahead!!! 🚀 ✊
 
 - ### Useful resources
 
 - [w3schools](https://www.w3schools.com/) - This helped me for responsive design. I really liked this pattern and will use it going forward.
-- [MDN Web docs]([https://www.example.com](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries)) - This is an amazing article which helped me finally understand Flexbox and @media queries.
+- [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries) - This is an amazing article which helped me finally understand Flexbox and @media queries.
 - I'd recommend it to anyone still learning this concept.
 
 - ## Author
