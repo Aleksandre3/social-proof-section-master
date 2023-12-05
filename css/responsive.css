@@ -1,0 +1,33 @@
+@media screen and (max-width: 920px) {
+  .title-cont {
+    text-align: center;
+  }
+  .rate-box:nth-child(2),
+  .rate-box:nth-child(3) {
+    margin-left: 0;
+  }
+
+  .user-container:nth-child(2),
+  .user-container:nth-child(3) {
+    transform: translate(0);
+  }
+  .header-container,
+  .user-flex-container,
+  .rate-box {
+    flex-direction: column;
+  }
+
+  .user-container {
+    width: 100%;
+  }
+
+  .rate-container {
+    width: 100%;
+    margin-top: 2rem;
+  }
+
+  .rate-box {
+    max-width: 100%;
+    gap: 0.3rem;
+  }
+}

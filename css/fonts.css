@@ -1,0 +1,12 @@
+:root {
+  /*Font family*/
+  --ff-primary: "League Spartan", sans-serif;
+
+  /*Font weight - 400,500,700*/
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-bold: 700;
+
+  /*Font size*/
+  --bodyText: 0.938rem;
+}

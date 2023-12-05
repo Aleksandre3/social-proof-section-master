@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&display=swap");
+@import "./colors.css";
+@import "./fonts.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--neutralLight);
+  background-image: url("/images/bg-pattern-top-desktop.svg"),
+    url("/images/bg-pattern-bottom-desktop.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: top left, bottom right;
+  background-size: 50% 45%, 50% 75%;
+  min-height: 100vh;
+
+  font-family: var(--ff-primary);
+  font-size: var(--bodyText);
+  color: var(--neutralDark);
+  font-weight: var(--fw-regular);
+}
+
+.container {
+  max-width: 1130px;
+  margin: 7rem auto;
+  padding: 0 30px;
+}
+
+/* Title container */
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+
+.title-cont {
+  max-width: 420px;
+}
+
+.title {
+  font-size: 3rem;
+  color: var(--primaryDark);
+  line-height: 2.625rem;
+}
+
+.paragraph {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+.rate-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+/* Rated boxes */
+.rate-box {
+  max-width: 27.813rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: hsl(300, 43%, 22%, 0.1);
+  border-radius: 4px;
+  padding: 0.6rem 1.875rem 0.6rem 1.5rem;
+}
+
+.rate-box:nth-child(2) {
+  margin-left: 2rem;
+}
+
+.rate-box:nth-child(3) {
+  margin-left: 6rem;
+}
+
+.rate-text {
+  color: var(--primaryDark);
+  font-weight: var(--fw-bold);
+}
+
+/* Users container */
+
+.user-flex-container {
+  display: flex;
+  align-items: center;
+  gap: 1.875rem;
+}
+
+.user-container {
+  width: 350px;
+  background-color: var(--primaryDark);
+  border-radius: 6px;
+  padding: 2.5rem 2.2rem;
+}
+
+.name,
+.user-paragraph {
+  color: var(--neutralLight);
+}
+
+.buyer {
+  color: var(--primaryPink);
+}
+
+.user-container:nth-child(2) {
+  transform: translateY(1.25rem);
+}
+
+.user-container:nth-child(3) {
+  transform: translateY(2.5rem);
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  gap: 1.3rem;
+  margin-bottom: 1.6rem;
+}
+
+.user-img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
